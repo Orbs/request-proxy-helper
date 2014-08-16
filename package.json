@@ -1,0 +1,27 @@
+{
+  "name": "request-proxy-helper",
+  "version": "0.1.1",
+  "description": "Augments a request object to include proxy settings based on config or environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orbs/request-proxy-helper.git"
+  },
+  "keywords": [
+    "request",
+    "proxy"
+  ],
+  "author": "Tauren Mills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orbs/request-proxy-helper/issues"
+  },
+  "homepage": "https://github.com/Orbs/request-proxy-helper",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "lodash": "^2.4.1"
+  }
+}
