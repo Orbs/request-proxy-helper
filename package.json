@@ -1,6 +1,6 @@
 {
   "name": "request-proxy-helper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Augments a request object to include proxy settings based on config or environment variables",
   "main": "index.js",
   "scripts": {
